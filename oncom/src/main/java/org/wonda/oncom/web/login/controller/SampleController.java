@@ -6,7 +6,11 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.wonda.oncom.web.login.form.LoginForm;
 
-
+/**
+ * 
+ * @author onko_archenemy
+ *
+ */
 @Controller
 public class SampleController {
 	
